@@ -1,5 +1,4 @@
-<img width="3400" height="712" alt="github-header-banner" src="https://github.com/user-attachments/assets/a7ae3f4e-f518-4ab8-804a-39143b6bd2a0" />
-
+<img width="3400" height="712" alt="github-header-banner(1)" src="https://github.com/user-attachments/assets/830a3b0d-b8f9-410c-8dc0-a5d81c68eb0e" />
 
 ### 🧰 Known Languages, Operating Systems, and Tools
 
