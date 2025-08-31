@@ -1,6 +1,3 @@
-
-![github-header-image(4)](https://github.com/zacharykowal/zacharykowal/assets/61563543/d64d567c-6cd9-48f0-8a23-4088eed0cf66)
-
 ---<img width="3400" height="712" alt="github-header-banner" src="https://github.com/user-attachments/assets/a7ae3f4e-f518-4ab8-804a-39143b6bd2a0" />
 
 
